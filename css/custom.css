@@ -1,0 +1,65 @@
+/*#startbutton {
+    width: 20em;
+    height: 20em;
+
+}*/
+
+
+
+#indexpagebutton {
+    width: 40em; height: 20em;
+}
+
+#pageimage {
+    width: 40em; height: 25em;
+}
+
+.jumbotron { min-height: 350px; max-height: 350px; background-color:#B0E2FF }
+
+#logininput {
+   height: 5em;
+}
+
+.welcometext {
+    border-radius: 5px;
+    background-color: #B0E2FF;
+    padding: 20px;
+}
+
+.hover_over {
+    display: none;
+}
+
+.jumbotron:hover .hover_over {
+    display: block;
+}
+
+.jumbotron:hover .normal {
+    display: none;
+}
+
+.patientwarning {
+    border-radius: 5px;
+    background-color: #FF4262;
+    padding: 20px;
+}
+
+#loginsubmit {
+    width: 20rem; height: 10rem;
+}
+
+#radiobuttons {
+    width: 3em; height: 3em;
+
+}
+
+.radiobuttonfont {
+    font-size: 2rem;
+}
+
+#nextPage {
+     width: 20em; height: 5em;
+ }
+#backPage {
+    width: 20em; height: 5em;
+}
